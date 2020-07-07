@@ -12,6 +12,7 @@ npm init
 
 npm install --save-dev electron
 npm install --save vue
+npm install --save vue-router
 npm install --save parcel-bundler
 ```
 
